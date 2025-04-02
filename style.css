@@ -43,8 +43,15 @@ body{
     
 }
 
+
+
+
+.Reset:hover {
+    background-color: #b30000;
+}
+
 .Reset{
-    background-color: #680747; 
+    background-color: #f0dd0c8a; 
     color: #141010;
     height: 30px;
     width: 70px;
